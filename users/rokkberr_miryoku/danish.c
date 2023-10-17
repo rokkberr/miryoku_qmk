@@ -2,4 +2,4 @@
 // 0x00D8 Ø   0x00F8 ø
 // 0x00C5 Å   0x00E5 å
 
-const uint32_t PROGMEM unicode_map[] = {[AE] = 0x00C6,[OE] = 0x00D8,[AA] = 0x00C5,[ae] = 0x00E6,[oe] = 0x00F8,[aa] = 0x00E5};
+//const uint32_t PROGMEM unicode_map[] = {[AE] = 0x00C6,[OE] = 0x00D8,[AA] = 0x00C5,[ae] = 0x00E6,[oe] = 0x00F8,[aa] = 0x00E5};
