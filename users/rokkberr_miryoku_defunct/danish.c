@@ -2,7 +2,8 @@
 // 0x00D8 Ø   0x00F8 ø
 // 0x00C5 Å   0x00E5 å
 
-const uint32_t PROGMEM unicode_map[] = {
+/*
+const unsigned  unicode_map[] PROGMEM = {
     [AE_UPPER] = 0x00C6,
     [OE_UPPER] = 0x00D8,
     [AA_UPPER] = 0x00C5,
@@ -10,3 +11,7 @@ const uint32_t PROGMEM unicode_map[] = {
     [OE_LOWER] = 0x00F8,
     [AA_LOWER] = 0x00E5,
 };
+*/
+
+
+

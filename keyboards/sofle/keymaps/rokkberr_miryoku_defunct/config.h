@@ -5,6 +5,8 @@
 
 #pragma once
 
+#define UNICODE_SELECTED_MODES UNICODE_MODE_WINCOMPOSE
+
 #define XXX KC_NO
 
 #define LAYOUT_miryoku(\
@@ -15,8 +17,8 @@
 )\
 LAYOUT(\
 XXX, XXX, XXX, XXX, XXX, XXX,                XXX, XXX, XXX, XXX, XXX, XXX,\
-XXX, K00, K01, K02, K03, K04,                K05, K06, K07, K08, K09, DK_ARNG,\
-XXX, K10, K11, K12, K13, K14,                K15, K16, K17, K18, K19, DK_OSTR,\
-XXX, K20, K21, K22, K23, K24, XXX,      XXX, K25, K26, K27, K28, K29, DK_AE,\
+XXX, K00, K01, K02, K03, K04,                K05, K06, K07, K08, K09, KDKAA,\
+XXX, K10, K11, K12, K13, K14,                K15, K16, K17, K18, K19, KDKOE,\
+XXX, K20, K21, K22, K23, K24, XXX,      XXX, K25, K26, K27, K28, K29, KDKAE,\
           XXX, XXX, K32, K33, K34,      K35, K36, K37, XXX, XXX\
 )
